@@ -1,0 +1,16 @@
+1 - Try to solve the problem on your own first. 
+    Hints are provided at the back of book.
+    Develop a solution w/ as little help as possible.
+
+2 - Write code on paper or whiteboard.
+3 - test your code - on paper.
+4 - Type your code into a computer.
+
+Desafio 1.1 - Is Unique
+Implement an algorithm to determine if a string has all unique characteres.
+
+dicas:
+
+Try a hash table
+Bit vector
+como resolver em O(N log N)?
