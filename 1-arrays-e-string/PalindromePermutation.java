@@ -63,3 +63,5 @@ public class PalindromePermutation {
         
     }
 }
+
+// O(N) sendo N o tamanho da string
